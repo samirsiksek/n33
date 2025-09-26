@@ -4,7 +4,7 @@
 //
 //     Perfect Powers Expressible as Sums of Two Curves
 //
-//  by Samir Siksek.
+//  by Imin and Chen and Samir Siksek.
 //  last changed 4/7/2008
 
 F107:=GF(107);
