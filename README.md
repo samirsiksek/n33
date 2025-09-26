@@ -1,5 +1,5 @@
 "Perfect Powers Expressible as Sums of Two Cubes"
-by S. Siksek 
+by I. Chen and S. Siksek 
 
 
 In this directory there are MAGMA and gp programs for verifying
