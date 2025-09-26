@@ -3,7 +3,7 @@
 \\ 
 \\     Perfect Powers Expressible as Sums of Two Curves 
 \\
-\\  by Samir Siksek.
+\\  by Imin Chen and Samir Siksek.
 \\
 \\
 \\  The command    proofrange(a,b) produced as output a list of
